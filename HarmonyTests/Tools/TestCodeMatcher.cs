@@ -1,11 +1,11 @@
-using HarmonyLib;
+using HarmonyXLib;
 using HarmonyLibTests.Assets;
 using NUnit.Framework;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Reflection.Emit;
-using static HarmonyLib.Code;
+using static HarmonyXLib.Code;
 
 namespace HarmonyLibTests.Tools;
 

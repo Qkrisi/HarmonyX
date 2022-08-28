@@ -7,13 +7,13 @@ using System.Reflection;
 using System.Runtime.CompilerServices;
 using System.Runtime.Loader;
 #endif
-using HarmonyLib;
+using HarmonyXLib;
 using MonoMod.RuntimeDetour;
 using NUnit.Framework;
 using NUnit.Framework.Constraints;
 using NUnit.Framework.Interfaces;
 using NUnit.Framework.Internal;
-using Logger = HarmonyLib.Tools.Logger;
+using Logger = HarmonyXLib.Tools.Logger;
 using Test = NUnit.Framework.Internal.Test;
 
 namespace HarmonyLibTests

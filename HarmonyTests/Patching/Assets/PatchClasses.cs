@@ -1,5 +1,5 @@
 extern alias mmc;
-using HarmonyLib;
+using HarmonyXLib;
 using mmc::MonoMod.Cil;
 using System;
 using System.Collections;

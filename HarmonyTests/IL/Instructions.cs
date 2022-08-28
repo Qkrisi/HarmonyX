@@ -1,7 +1,7 @@
 extern alias mmc;
-using HarmonyLib;
-using HarmonyLib.Internal.Patching;
-using HarmonyLib.Internal.Util;
+using HarmonyXLib;
+using HarmonyXLib.Internal.Patching;
+using HarmonyXLib.Internal.Util;
 using HarmonyLibTests.Assets;
 using mmc::MonoMod.Utils;
 using Mono.Cecil.Cil;
@@ -11,7 +11,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Reflection.Emit;
 using System.Web;
-using static HarmonyLib.Code;
+using static HarmonyXLib.Code;
 using OpCodes = System.Reflection.Emit.OpCodes;
 
 namespace HarmonyLibTests.Assets

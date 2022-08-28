@@ -1,4 +1,4 @@
-using HarmonyLib;
+using HarmonyXLib;
 using HarmonyLibTests.Assets;
 using HarmonyLibTests.Assets.Methods;
 using NUnit.Framework;
